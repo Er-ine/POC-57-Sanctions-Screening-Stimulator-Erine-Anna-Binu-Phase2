@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+# Local configuration and test caches
+claude_desktop_config.json
+.pytest_cache/
+__pycache__/
+*.py[cod]
+node_modules/
+.next/
+.venv/
+venv/
